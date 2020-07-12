@@ -7,6 +7,7 @@ Zwykły tekst
 **pogrubienie**
 *kursywa*
 
+## Test list
 
 1. Element listy nr 1
 2. Element listy nr 2
@@ -16,11 +17,17 @@ Zwykły tekst
 - Lista wypunktowana
 - Lista wypunktowana
 
+## Linki
+
 [Google](https://www.google.com)
 
 https://www.google.com
 
+## Dodanie Zdjęcia
+
 ![Console Image](https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80)
+
+## Dodanie fragmentu kodu
 
 Fragment kodu `body`
 ```html
